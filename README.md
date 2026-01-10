@@ -18,8 +18,7 @@ This repository represents the **prototype and conceptual model**, created as pa
 The complete UI/UX for this application was designed using **Figma**.
 
 * 📐 Design File:
-[[LuxuryRide Figma Prototype](https://lnkd.in/g7TSnfiK)](https://www.figma.com/design/uMWLKCPx6bmkGuX4RzW5yA/MAD1?node-id=0-1&t=NqXYaGpl3I1amOaJ-1)
-](https://www.figma.com/design/uMWLKCPx6bmkGuX4RzW5yA/MAD1?node-id=0-1&amp;t=NqXYaGpl3I1amOaJ-1)
+https://www.figma.com/design/uMWLKCPx6bmkGuX4RzW5yA/MAD1?node-id=0-1&amp;t=NqXYaGpl3I1amOaJ-1
 ---
 
 ## 📱 Key Features (Prototype)
